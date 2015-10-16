@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.201.212.146/Ci/coss.ipa</string>
+					<string>http://218.201.250.207:8080/Ci/coss.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
